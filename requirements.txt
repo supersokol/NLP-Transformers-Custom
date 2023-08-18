@@ -1,0 +1,8 @@
+accelerate==0.20.3
+datasets==2.14.4
+evaluate==0.4.0
+huggingface_hub==0.16.4
+numpy==1.21.6
+torch==1.13.1+cu117
+tqdm==4.64.1
+transformers==4.30.2
