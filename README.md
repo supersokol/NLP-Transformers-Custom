@@ -13,6 +13,7 @@ In this repository, you will find a collection of Jupyter Notebook examples for 
 #### Notebooks
 Each notebook in this repository focuses on a specific NLP task and includes custom implementations that provide valuable insights into solving these tasks effectively. Here's a list of notebooks you will find:
 + **eng_uk_translation_opus_kde4.ipynb**: Notebook demonstrating how to adapt a pretrained model for translating English to Ukrainian within a specific domain using Hugging Face Transformers.
++ **simple_mlm_imdb.ipynb**: Notebook demonstrating how to adapt a pretrained model for MLM task in English within a specific domain (movies) using Hugging Face Transformers.
 + ..
   
 ...more notebooks to come! I periodically update this repository with new implementations.
